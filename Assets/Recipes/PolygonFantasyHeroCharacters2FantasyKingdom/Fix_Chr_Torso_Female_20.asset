@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89b597d5cbaa8944a9db3737c32afff, type: 3}
+  m_Name: Fix_Chr_Torso_Female_20
+  m_EditorClassIdentifier: 
+  _locked: 0
+  _notes: 
+  _howToProcess: 0
+  _sequencing: 0
+  _instructions:
+  - {fileID: 11400000, guid: 951cc7039b9fa214f93cfbe17d41367c, type: 2}
+  _howToMatch: 0
+  _meshes:
+  - {fileID: 4301466, guid: 038320a534bd8b444b43734860d1a211, type: 3}

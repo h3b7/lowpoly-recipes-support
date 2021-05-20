@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f17ae1acd66d9be4fb008d5e209642c4, type: 3}
+  m_Name: Recipe
+  m_EditorClassIdentifier: 
+  _locked: 0
+  _notes: 
+  _title: Fantasy Heroes 2 Fantasy Kingdom
+  _description: 'Convert the Polygon Fantasy Heroes package to use the Textures from
+    Polygon Fantasy Kingdom
+
+    Fix Missing Meshes
+
+    Fix Character scale
+
+    Fix
+    Female Torso 20 position'
+  _requirements: []
+  _outputPath: Assets/PFHC2PFK
+  _meshesFolder: Meshes
+  _prefabsFolder: Prefabs
+  _materialsFolder: Materials
+  _texturesFolder: Textures
+  _instructions:
+  - {fileID: 11400000, guid: 9aad892b137cb4a43a8d1d505e7de481, type: 2}
+  - {fileID: 11400000, guid: 493eb7b255f35ba4b9e62502ad857c65, type: 2}
+  - {fileID: 11400000, guid: 70688a96a4d762045b1522585e238495, type: 2}
+  - {fileID: 11400000, guid: ddd3944af8c2f7f4daeaf76180121140, type: 2}
+  - {fileID: 11400000, guid: 3bedb0b1b19e55f4ea7ae34332b95531, type: 2}

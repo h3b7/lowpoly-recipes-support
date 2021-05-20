@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d94fcda5f669fa40b44435c9e7bc096, type: 3}
+  m_Name: PolygonFantasyKingdom_TFS
+  m_EditorClassIdentifier: 
+  _locked: 0
+  _notes: 
+  _features:
+  - name: CH16_SS_GrayScale
+    bounds:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.5
+      height: 0.015625
+  - name: Color_01
+    bounds:
+      serializedVersion: 2
+      x: 0.25
+      y: 0.5
+      width: 0.009277344
+      height: 0.0048828125
+  - name: Color_02
+    bounds:
+      serializedVersion: 2
+      x: 0.2866211
+      y: 0.5
+      width: 0.0087890625
+      height: 0.0048828125
+  - name: Color_03
+    bounds:
+      serializedVersion: 2
+      x: 0.2775879
+      y: 0.5
+      width: 0.008544922
+      height: 0.0048828125
+  - name: Color_Flag
+    bounds:
+      serializedVersion: 2
+      x: 0.25
+      y: 0.5048828
+      width: 0.0078125
+      height: 0.0078125
+  - name: CV5_SS_06
+    bounds:
+      serializedVersion: 2
+      x: 0.07519531
+      y: 0.390625
+      width: 0.0146484375
+      height: 0.109375
+  - name: CV5_SS_31
+    bounds:
+      serializedVersion: 2
+      x: 0.4267578
+      y: 0.39111328
+      width: 0.015625
+      height: 0.10888672
+  - name: CV7_SS_01
+    bounds:
+      serializedVersion: 2
+      x: 0
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_02
+    bounds:
+      serializedVersion: 2
+      x: 0.0107421875
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_03
+    bounds:
+      serializedVersion: 2
+      x: 0.021484375
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_04
+    bounds:
+      serializedVersion: 2
+      x: 0.032226562
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_05
+    bounds:
+      serializedVersion: 2
+      x: 0.04296875
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_06
+    bounds:
+      serializedVersion: 2
+      x: 0.053710938
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_07
+    bounds:
+      serializedVersion: 2
+      x: 0.064453125
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_08
+    bounds:
+      serializedVersion: 2
+      x: 0.07519531
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_09
+    bounds:
+      serializedVersion: 2
+      x: 0.0859375
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_10
+    bounds:
+      serializedVersion: 2
+      x: 0.09667969
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_11
+    bounds:
+      serializedVersion: 2
+      x: 0.107421875
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_12
+    bounds:
+      serializedVersion: 2
+      x: 0.11816406
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_13
+    bounds:
+      serializedVersion: 2
+      x: 0.12890625
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_14
+    bounds:
+      serializedVersion: 2
+      x: 0.13964844
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_15
+    bounds:
+      serializedVersion: 2
+      x: 0.15039062
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_16
+    bounds:
+      serializedVersion: 2
+      x: 0.16113281
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_17
+    bounds:
+      serializedVersion: 2
+      x: 0.171875
+      y: 0.21777344
+      width: 0.009765625
+      height: 0.17285156
+  - name: CV7_SS_18
+    bounds:
+      serializedVersion: 2
+      x: 0.18164062
+      y: 0.21777344
+      width: 0.0107421875
+      height: 0.17285156
+  - name: CV7_SS_19
+    bounds:
+      serializedVersion: 2
+      x: 0.19238281
+      y: 0.21826172
+      width: 0.010253906
+      height: 0.17211914
+  - name: CV7_SS_20
+    bounds:
+      serializedVersion: 2
+      x: 0.20263672
+      y: 0.21826172
+      width: 0.010253906
+      height: 0.17211914
+  - name: CV7_SS_21
+    bounds:
+      serializedVersion: 2
+      x: 0.21289062
+      y: 0.21826172
+      width: 0.010253906
+      height: 0.17211914
+  - name: CV7_SS_22
+    bounds:
+      serializedVersion: 2
+      x: 0.22314453
+      y: 0.21826172
+      width: 0.009765625
+      height: 0.17211914
+  - name: CV7_SS_23
+    bounds:
+      serializedVersion: 2
+      x: 0.23291016
+      y: 0.21826172
+      width: 0.008544922
+      height: 0.17211914
+  - name: Error
+    bounds:
+      serializedVersion: 2
+      x: 0.32202148
+      y: 0.37231445
+      width: 0.018066406
+      height: 0.018066406
+  - name: Hair_01
+    bounds:
+      serializedVersion: 2
+      x: 0.04248047
+      y: 0.18652344
+      width: 0.015625
+      height: 0.008056641
+  - name: Leather_01
+    bounds:
+      serializedVersion: 2
+      x: 0.0107421875
+      y: 0.29101562
+      width: 0.0107421875
+      height: 0.024414062
+  - name: Leather_02
+    bounds:
+      serializedVersion: 2
+      x: 0.032226562
+      y: 0.29101562
+      width: 0.0107421875
+      height: 0.024414062
+  - name: Mail_01
+    bounds:
+      serializedVersion: 2
+      x: 0.6101074
+      y: 0.6965332
+      width: 0.05859375
+      height: 0.052490234
+  - name: Metal_01
+    bounds:
+      serializedVersion: 2
+      x: 0.07519531
+      y: 0.29101562
+      width: 0.0107421875
+      height: 0.024414062
+  - name: Metal_02
+    bounds:
+      serializedVersion: 2
+      x: 0.0859375
+      y: 0.29101562
+      width: 0.0107421875
+      height: 0.024414062
+  - name: Metal_03
+    bounds:
+      serializedVersion: 2
+      x: 0.09667969
+      y: 0.29101562
+      width: 0.0107421875
+      height: 0.024414062
+  - name: Scar_01
+    bounds:
+      serializedVersion: 2
+      x: 0.015625
+      y: 0.19970703
+      width: 0.020263672
+      height: 0.018066406
+  - name: Shield
+    bounds:
+      serializedVersion: 2
+      x: 0.25
+      y: 0.5
+      width: 0.25
+      height: 0.25
+  - name: Skin_01
+    bounds:
+      serializedVersion: 2
+      x: 0.015625
+      y: 0.17407227
+      width: 0.020263672
+      height: 0.025634766
+  - name: Stubble_01
+    bounds:
+      serializedVersion: 2
+      x: 0.015625
+      y: 0.15673828
+      width: 0.020751953
+      height: 0.017333984
+  - name: Feature
+    bounds:
+      serializedVersion: 2
+      x: 0.276899
+      y: 0.304104
+      width: 0.04127398
+      height: 0.039276987
